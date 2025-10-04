@@ -1,3 +1,3 @@
 Запуск одним скриптом:
 
-main.py
+python3 main.py
